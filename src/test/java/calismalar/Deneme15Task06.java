@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Deneme15 extends TestBase {
+public class Deneme15Task06 extends TestBase {
     // https://www.jqueryscript.net/demo/Easy-iFrame-based-Twitter-Emoji-Picker-Plugin-jQuery-Emoojis/ sitesine gidin
 // ikinci emojiye tıklayın
 // İkinci emoji öğelerini yazdırınız

@@ -25,7 +25,7 @@ public class C03_NullPointerException {
 
     public void NullPointerException() {
         driver.get("https://amazon.com"); //C03_NullPointerException.name(C03_NullPointerException.java:22)
-        //driver objemize browser atamasi yapmadigimiz icin NullPointerException hatasi aliriz
+        //driver = new Driver(); driver objemize browser atamasi yapmadigimiz icin NullPointerException hatasi aliriz
 
     }
 

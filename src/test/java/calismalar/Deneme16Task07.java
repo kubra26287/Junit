@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBase;
 
-public class Deneme16 extends TestBase {
+public class Deneme16Task07 extends TestBase {
     /*
 - http://szimek.github.io/signature_pad/ sayfasına gidiniz
 - Çıkan ekrana istediğiniz çizgi yada şekli çiziniz

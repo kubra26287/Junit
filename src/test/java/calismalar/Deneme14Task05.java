@@ -2,13 +2,11 @@ package calismalar;
 
 import org.junit.Assert;
 import org.junit.Test;
-import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import utilities.TestBase;
 
-public class Deneme14 extends TestBase {
+public class Deneme14Task05 extends TestBase {
     /*
     -http://demo.automationtesting.in/Alerts.html sayfasına gidiniz
             -Alert with OK karşısındaki click the button to display an alert box: butonuna tıklayınız
