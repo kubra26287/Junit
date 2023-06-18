@@ -43,5 +43,6 @@ public class C02_Faker {
 
         //Rastgele 15 haneli bir numara
         System.out.println(faker.number().digits(15));
+        
     }
 }

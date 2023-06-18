@@ -32,6 +32,7 @@ public class C01_ActionMoveToElement extends TestBase {
         actions.moveToElement(dilMenu).perform(); //action objesini kullanarak mausu moveToelement ile dil menusu uzerine getirdik
         bekle(3);
 
+
         // Change country/region butonuna basiniz
         driver.findElement(By.xpath("(//div[@class='icp-mkt-change-lnk'])[1]")).click();
 
